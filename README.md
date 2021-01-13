@@ -5,4 +5,6 @@ Esta es una aplicación de muestra para generación de archivos de tablas de mul
 
 Ejecutar este comando
 
+```
 npm install
+```
